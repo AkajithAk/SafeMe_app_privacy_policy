@@ -1,0 +1,19 @@
+Privacy Policy
+SafeMe app is like SOS app. This app is used to help the person whenever safety is at risk. SafeMe will send the user location to saved contact and SafeMe group chat and start recording the sound.
+This is SafeMe app privacy policy. This app is Free. This is an Android application. We are going to collect Gmail only. We are not going to use or share user's information. All the data is saved in firebase.
+INFORMATION RECEIVED, COLLECTED AND STORED BY THE COMPANY
+1. Gmail id
+We are collecting Gmail id to save all data in user Gmail in Database.
+PERMISSIONS
+1. Location Access
+This is SOS app so we need user location to share in Safeme app group chat. The SafeMe app user will see the shared person's location and help them if the user is near to shared person's location.
+2. Voice Recording Access
+If SafeMe button clicked voice recorder will start recording the sound nearby the device. We save the sound in user's device local storage. We are not going to use the sound recorder file.
+3. Media and File Access
+We are going to save recorded file in user's device local storage. We are not going to use this file.
+4. SMS
+We send user location to user's saved contact. but we are not getting user's contact access. user manually types the number and saves. we send the user device current location to the saved contact (When user click SafeMe button).
+Developer Details :
+Name : @k
+Gmail: akajith919@gmail.com
+If any queries or feedback send a Gmail to akajith919@gmail.com
